@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>16x2 easyC LCD Library: Class Members - Functions</title>
+<title>INA219 Arduino Library by Soldered: Class Members - Functions</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -28,10 +28,10 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">16x2 easyC LCD Library
+   <div id="projectname">INA219 Arduino Library by Soldered
    &#160;<span id="projectnumber">1.0.0</span>
    </div>
-   <div id="projectbrief">This is a library for the 16x2 easyC LCD Module</div>
+   <div id="projectbrief">This is a library for the INA219 easyC sensor Module</div>
   </td>
  </tr>
  </tbody>
@@ -89,13 +89,52 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
 &#160;<ul>
 <li>begin()
 : <a class="el" href="class_easy_c.html#a1b5a82b8a59daea79de76e496457e176">EasyC</a>
+, <a class="el" href="class_i_n_a219.html#a9b754c15e7e7d243ef3230532d0f665d">INA219</a>
+</li>
+<li>calibrate()
+: <a class="el" href="class_i_n_a219.html#a4fb08e8d52d7b706ca24cac288cbf33a">INA219</a>
+</li>
+<li>configure()
+: <a class="el" href="class_i_n_a219.html#a3aecde105940a9e0d90daed8794cf77b">INA219</a>
 </li>
 <li>EasyC()
 : <a class="el" href="class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd">EasyC</a>
 </li>
+<li>getBusRes()
+: <a class="el" href="class_i_n_a219.html#a151678a8f108e34bcec58eaccb8e1400">INA219</a>
+</li>
+<li>getGain()
+: <a class="el" href="class_i_n_a219.html#a0630bb99f95dd0e3402a0dc523e52dd9">INA219</a>
+</li>
+<li>getMaxCurrent()
+: <a class="el" href="class_i_n_a219.html#abc9d4e88994dcc704a1ba44e2af15f20">INA219</a>
+</li>
+<li>getMaxPossibleCurrent()
+: <a class="el" href="class_i_n_a219.html#a6fa8bad10017f011173ddc1dbd489d21">INA219</a>
+</li>
+<li>getMaxPower()
+: <a class="el" href="class_i_n_a219.html#a80aa1fcff1cd5f220dc7d5dd2cf7fe3d">INA219</a>
+</li>
+<li>getMaxShuntVoltage()
+: <a class="el" href="class_i_n_a219.html#ab49b8283f53b685410a2a0826c835499">INA219</a>
+</li>
+<li>getMode()
+: <a class="el" href="class_i_n_a219.html#ad17b75eb41128241bd407dce406d6dfb">INA219</a>
+</li>
+<li>getRange()
+: <a class="el" href="class_i_n_a219.html#ac311c03a183861b319613d47cf3d5524">INA219</a>
+</li>
+<li>getShuntRes()
+: <a class="el" href="class_i_n_a219.html#ab1904b3572b2959bc3b9000863cf2d6b">INA219</a>
+</li>
 <li>initializeNative()
 : <a class="el" href="class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998">EasyC</a>
-, <a class="el" href="class_sensor.html#adb537c76173019fddf84b2d89e6c6559">Sensor</a>
+</li>
+<li>readBusPower()
+: <a class="el" href="class_i_n_a219.html#a4b66c070ef919ce9be79321d1bba8958">INA219</a>
+</li>
+<li>readBusVoltage()
+: <a class="el" href="class_i_n_a219.html#a4ded84fc2ce3730e99d0d8b9ddcc27f9">INA219</a>
 </li>
 <li>readData()
 : <a class="el" href="class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a">EasyC</a>
@@ -103,14 +142,23 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
 <li>readRegister()
 : <a class="el" href="class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376">EasyC</a>
 </li>
+<li>readRegister16()
+: <a class="el" href="class_i_n_a219.html#a8d799263d0156691c7f712374ad93bd0">INA219</a>
+</li>
+<li>readShuntCurrent()
+: <a class="el" href="class_i_n_a219.html#a6d9bf18ee580df97c8bafc4f2f8021f7">INA219</a>
+</li>
+<li>readShuntVoltage()
+: <a class="el" href="class_i_n_a219.html#a72eb44fa787c41bbeb6b74a4f368e2e6">INA219</a>
+</li>
 <li>sendAddress()
 : <a class="el" href="class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3">EasyC</a>
 </li>
 <li>sendData()
 : <a class="el" href="class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195">EasyC</a>
 </li>
-<li>Sensor()
-: <a class="el" href="class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62">Sensor</a>
+<li>writeRegister16()
+: <a class="el" href="class_i_n_a219.html#a07df6507ac19a63dacf93b18d3a62551">INA219</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -120,7 +168,7 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
     <!-- id is needed for treeview function! -->
     <ul>
         <li class="footer">
-            Generated on Thu Jul 29 2021 07:01:00 for 16x2 easyC LCD Library by <a href="http://www.doxygen.org/index.html">
+            Generated on Thu Jul 29 2021 07:30:06 for INA219 Arduino Library by Soldered by <a href="http://www.doxygen.org/index.html">
                 <img class="footer" src="doxygen.png" alt="doxygen"
                     onerror="this.onerror=null;this.src='doxygen.svg';" /></a> 1.9.1.
             Dark theme by <a href="http://majerle.eu" target="_new">Tilen Majerle</a>. All rights reserved.

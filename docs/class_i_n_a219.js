@@ -1,0 +1,27 @@
+var class_i_n_a219 =
+[
+    [ "begin", "class_i_n_a219.html#a9b754c15e7e7d243ef3230532d0f665d", null ],
+    [ "calibrate", "class_i_n_a219.html#a4fb08e8d52d7b706ca24cac288cbf33a", null ],
+    [ "configure", "class_i_n_a219.html#a3aecde105940a9e0d90daed8794cf77b", null ],
+    [ "getBusRes", "class_i_n_a219.html#a151678a8f108e34bcec58eaccb8e1400", null ],
+    [ "getGain", "class_i_n_a219.html#a0630bb99f95dd0e3402a0dc523e52dd9", null ],
+    [ "getMaxCurrent", "class_i_n_a219.html#abc9d4e88994dcc704a1ba44e2af15f20", null ],
+    [ "getMaxPossibleCurrent", "class_i_n_a219.html#a6fa8bad10017f011173ddc1dbd489d21", null ],
+    [ "getMaxPower", "class_i_n_a219.html#a80aa1fcff1cd5f220dc7d5dd2cf7fe3d", null ],
+    [ "getMaxShuntVoltage", "class_i_n_a219.html#ab49b8283f53b685410a2a0826c835499", null ],
+    [ "getMode", "class_i_n_a219.html#ad17b75eb41128241bd407dce406d6dfb", null ],
+    [ "getRange", "class_i_n_a219.html#ac311c03a183861b319613d47cf3d5524", null ],
+    [ "getShuntRes", "class_i_n_a219.html#ab1904b3572b2959bc3b9000863cf2d6b", null ],
+    [ "readBusPower", "class_i_n_a219.html#a4b66c070ef919ce9be79321d1bba8958", null ],
+    [ "readBusVoltage", "class_i_n_a219.html#a4ded84fc2ce3730e99d0d8b9ddcc27f9", null ],
+    [ "readRegister16", "class_i_n_a219.html#a8d799263d0156691c7f712374ad93bd0", null ],
+    [ "readShuntCurrent", "class_i_n_a219.html#a6d9bf18ee580df97c8bafc4f2f8021f7", null ],
+    [ "readShuntVoltage", "class_i_n_a219.html#a72eb44fa787c41bbeb6b74a4f368e2e6", null ],
+    [ "writeRegister16", "class_i_n_a219.html#a07df6507ac19a63dacf93b18d3a62551", null ],
+    [ "currentLSB", "class_i_n_a219.html#a0c9528bf2a41216d7d2e95b5c250ec33", null ],
+    [ "inaAddress", "class_i_n_a219.html#a39ee0b91645a43d757a4083836872378", null ],
+    [ "powerLSB", "class_i_n_a219.html#ae950f683a29ef7cb015a1c3137c50033", null ],
+    [ "rShunt", "class_i_n_a219.html#a9071b7358b5b576138b58ee5f00405d3", null ],
+    [ "vBusMax", "class_i_n_a219.html#a465b674db8b3921b43b286dd5d8c35e7", null ],
+    [ "vShuntMax", "class_i_n_a219.html#a84c88b9d8c8a5a2ff3b36aecb09c4d3c", null ]
+];
