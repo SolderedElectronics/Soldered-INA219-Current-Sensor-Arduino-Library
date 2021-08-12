@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['err_117',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
+  ['vbusmax_95',['vBusMax',['../class_i_n_a219.html#a465b674db8b3921b43b286dd5d8c35e7',1,'INA219']]],
+  ['vshuntmax_96',['vShuntMax',['../class_i_n_a219.html#a84c88b9d8c8a5a2ff3b36aecb09c4d3c',1,'INA219']]]
 ];

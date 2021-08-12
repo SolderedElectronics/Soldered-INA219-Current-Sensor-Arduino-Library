@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['defaultaddress_116',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]]
+  ['rshunt_94',['rShunt',['../class_i_n_a219.html#a9071b7358b5b576138b58ee5f00405d3',1,'INA219']]]
 ];

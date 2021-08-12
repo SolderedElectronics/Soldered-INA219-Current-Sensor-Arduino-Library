@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['address_113',['address',['../class_easy_c.html#a6f4c6f2e8723b0c0495e126d49f5fcda',1,'EasyC']]]
+  ['currentlsb_91',['currentLSB',['../class_i_n_a219.html#a0c9528bf2a41216d7d2e95b5c250ec33',1,'INA219']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['begindone_114',['beginDone',['../class_easy_c.html#a2f55de657a84e73edda23dae91d30436',1,'EasyC']]]
+  ['inaaddress_92',['inaAddress',['../class_i_n_a219.html#a39ee0b91645a43d757a4083836872378',1,'INA219']]]
 ];

@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['begin_1',['begin',['../class_i_n_a219.html#a9b754c15e7e7d243ef3230532d0f665d',1,'INA219::begin()'],['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)']]],
-  ['begindone_2',['beginDone',['../class_easy_c.html#a2f55de657a84e73edda23dae91d30436',1,'EasyC']]]
+  ['calibrate_1',['calibrate',['../class_i_n_a219.html#a4fb08e8d52d7b706ca24cac288cbf33a',1,'INA219']]],
+  ['configure_2',['configure',['../class_i_n_a219.html#a3aecde105940a9e0d90daed8794cf77b',1,'INA219']]],
+  ['currentlsb_3',['currentLSB',['../class_i_n_a219.html#a0c9528bf2a41216d7d2e95b5c250ec33',1,'INA219']]]
 ];

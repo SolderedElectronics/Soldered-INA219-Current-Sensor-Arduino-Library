@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['powerlsb_63',['powerLSB',['../class_i_n_a219.html#ae950f683a29ef7cb015a1c3137c50033',1,'INA219']]]
+  ['writeregister16_65',['writeRegister16',['../class_i_n_a219.html#a07df6507ac19a63dacf93b18d3a62551',1,'INA219']]]
 ];
