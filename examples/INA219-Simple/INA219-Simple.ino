@@ -1,12 +1,17 @@
-/*
-    INA219 Zero-Drift, Bi-directional Current/Power Monitor. Simple Example.
-    Read more: http://www.jarzebski.pl/arduino/czujniki-i-sensory/cyfrowy-czujnik-pradu-mocy-ina219.html
-    GIT: https://github.com/jarzebski/Arduino-INA219
-    Web: http://www.jarzebski.pl
-    (c) 2014 by Korneliusz Jarzebski
 
-    Modified by Soldered, see https://solde.red/333066
-*/
+/**
+ **************************************************
+ *
+ * @file        INA219-Simple.ino
+ * @brief       INA219 Zero-Drift, Bi-directional Current/Power Monitor. Simple Example.
+ *
+ *
+ *  product: www.solde.red/333075
+ *
+ * @authors     Korneliusz Jarzebski
+ * 
+ *          Modified by soldered.com
+ ***************************************************/
 
 #include "INA219-SOLDERED.h"
 
@@ -15,7 +20,7 @@ INA219 ina;
 // Function to check how is the sensor setuped
 void checkConfig()
 {
-    Serial.print("Mode:                 ");
+    Serial.print("Mode:                 ");//Print on display in which mode is sensor
     switch (ina.getMode())
     {
     case INA219_MODE_POWER_DOWN:
@@ -46,7 +51,7 @@ void checkConfig()
         Serial.println("unknown");
     }
 
-    Serial.print("Range:                ");
+    Serial.print("Range:                ");//Print measuring range
     switch (ina.getRange())
     {
     case INA219_RANGE_16V:
@@ -59,7 +64,7 @@ void checkConfig()
         Serial.println("unknown");
     }
 
-    Serial.print("Gain:                 ");
+    Serial.print("Gain:                 ");//Print gain of measuring
     switch (ina.getGain())
     {
     case INA219_GAIN_40MV:
@@ -78,7 +83,7 @@ void checkConfig()
         Serial.println("unknown");
     }
 
-    Serial.print("Bus resolution:       ");
+    Serial.print("Bus resolution:       ");//Print bus resolution
     switch (ina.getBusRes())
     {
     case INA219_BUS_RES_9BIT:
@@ -97,7 +102,7 @@ void checkConfig()
         Serial.println("unknown");
     }
 
-    Serial.print("Shunt resolution:     ");
+    Serial.print("Shunt resolution:     ");//Print shunt resolution
     switch (ina.getShuntRes())
     {
     case INA219_SHUNT_RES_9BIT_1S:
@@ -138,19 +143,19 @@ void checkConfig()
     }
 
     Serial.print("Max possible current: ");
-    Serial.print(ina.getMaxPossibleCurrent());
+    Serial.print(ina.getMaxPossibleCurrent());//Print maximum current
     Serial.println(" A");
 
     Serial.print("Max current:          ");
-    Serial.print(ina.getMaxCurrent());
+    Serial.print(ina.getMaxCurrent());//Print maximum measurable current
     Serial.println(" A");
 
     Serial.print("Max shunt voltage:    ");
-    Serial.print(ina.getMaxShuntVoltage());
+    Serial.print(ina.getMaxShuntVoltage());//Print max voltage on shunt that can be read
     Serial.println(" V");
 
     Serial.print("Max power:            ");
-    Serial.print(ina.getMaxPower());
+    Serial.print(ina.getMaxPower());//Print max power that can be read
     Serial.println(" W");
 }
 
@@ -180,20 +185,20 @@ void setup()
 void loop()
 {
     Serial.print("Bus voltage:   ");
-    Serial.print(ina.readBusVoltage(), 5);
+    Serial.print(ina.readBusVoltage(), 5);  //Read bus voltage
     Serial.println(" V");
 
     Serial.print("Bus power:     ");
-    Serial.print(ina.readBusPower(), 5);
+    Serial.print(ina.readBusPower(), 5);  //Read bus power
     Serial.println(" W");
 
 
     Serial.print("Shunt voltage: ");
-    Serial.print(ina.readShuntVoltage(), 5);
+    Serial.print(ina.readShuntVoltage(), 5);  //Read shunt voltage
     Serial.println(" V");
 
     Serial.print("Shunt current: ");
-    Serial.print(ina.readShuntCurrent(), 5);
+    Serial.print(ina.readShuntCurrent(), 5);  //Read shunt current
     Serial.println(" A");
 
     Serial.println("");
