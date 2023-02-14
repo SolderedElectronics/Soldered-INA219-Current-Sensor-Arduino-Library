@@ -25,9 +25,7 @@
 var NAVTREE =
 [
   [ "INA219 Arduino Library by Soldered", "index.html", [
-    [ "Voltage & current sensor INA219 breakout Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md8", null ]
-    ] ],
+    [ "Voltage & current sensor INA219 breakout Arduino library", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
