@@ -156,7 +156,7 @@ float INA219::readShuntVoltage(void)
 
 float INA219::readBusVoltage(void)
 {
-    int16_t voltage;
+    uint16_t voltage;
 
     voltage = readRegister16(INA219_REG_BUSVOLTAGE);
     voltage >>= 3;
