@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['readme_2emd_0',['README.md',['../src_2libs_2_arduino-_i_n_a219_2_r_e_a_d_m_e_8md.html',1,'']]]
+  ['hardware_20design_0',['Hardware design',['../index.html#autotoc_md2',1,'']]],
+  ['have_20fun_1',['Have fun!',['../index.html#autotoc_md8',1,'']]],
+  ['help_2',['I need your help',['..//github/workspace/gh-pages/src/libs/Arduino-INA219/README.md#autotoc_md9',1,'']]]
 ];

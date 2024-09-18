@@ -1,10 +1,12 @@
 var searchData=
 [
-  ['readbuspower_0',['readBusPower',['../class_i_n_a219.html#a4b66c070ef919ce9be79321d1bba8958',1,'INA219']]],
-  ['readbusvoltage_1',['readBusVoltage',['../class_i_n_a219.html#a4ded84fc2ce3730e99d0d8b9ddcc27f9',1,'INA219']]],
-  ['readme_2emd_2',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister16_3',['readRegister16',['../class_i_n_a219.html#a8d799263d0156691c7f712374ad93bd0',1,'INA219']]],
-  ['readshuntcurrent_4',['readShuntCurrent',['../class_i_n_a219.html#a6d9bf18ee580df97c8bafc4f2f8021f7',1,'INA219']]],
-  ['readshuntvoltage_5',['readShuntVoltage',['../class_i_n_a219.html#a72eb44fa787c41bbeb6b74a4f368e2e6',1,'INA219']]],
-  ['rshunt_6',['rShunt',['../class_i_n_a219.html#a9071b7358b5b576138b58ee5f00405d3',1,'INA219']]]
+  ['getbusres_0',['getBusRes',['../class_i_n_a219.html#a151678a8f108e34bcec58eaccb8e1400',1,'INA219']]],
+  ['getgain_1',['getGain',['../class_i_n_a219.html#a0630bb99f95dd0e3402a0dc523e52dd9',1,'INA219']]],
+  ['getmaxcurrent_2',['getMaxCurrent',['../class_i_n_a219.html#abc9d4e88994dcc704a1ba44e2af15f20',1,'INA219']]],
+  ['getmaxpossiblecurrent_3',['getMaxPossibleCurrent',['../class_i_n_a219.html#a6fa8bad10017f011173ddc1dbd489d21',1,'INA219']]],
+  ['getmaxpower_4',['getMaxPower',['../class_i_n_a219.html#a80aa1fcff1cd5f220dc7d5dd2cf7fe3d',1,'INA219']]],
+  ['getmaxshuntvoltage_5',['getMaxShuntVoltage',['../class_i_n_a219.html#ab49b8283f53b685410a2a0826c835499',1,'INA219']]],
+  ['getmode_6',['getMode',['../class_i_n_a219.html#ad17b75eb41128241bd407dce406d6dfb',1,'INA219']]],
+  ['getrange_7',['getRange',['../class_i_n_a219.html#ac311c03a183861b319613d47cf3d5524',1,'INA219']]],
+  ['getshuntres_8',['getShuntRes',['../class_i_n_a219.html#ab1904b3572b2959bc3b9000863cf2d6b',1,'INA219']]]
 ];

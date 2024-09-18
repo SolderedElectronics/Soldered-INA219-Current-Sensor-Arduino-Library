@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['begin_0',['begin',['../class_i_n_a219.html#a9b754c15e7e7d243ef3230532d0f665d',1,'INA219']]]
+  ['about_20soldered_0',['About Soldered',['../index.html#autotoc_md5',1,'']]],
+  ['arduino_20library_1',['Voltage &amp; current sensor INA219 breakout Arduino library',['../index.html',1,'']]]
 ];

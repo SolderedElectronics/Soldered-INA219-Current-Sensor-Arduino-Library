@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['writeregister16_0',['writeRegister16',['../class_i_n_a219.html#a07df6507ac19a63dacf93b18d3a62551',1,'INA219']]]
+  ['library_0',['Voltage &amp; current sensor INA219 breakout Arduino library',['../index.html',1,'']]],
+  ['license_1',['Open-source license',['../index.html#autotoc_md7',1,'']]]
 ];

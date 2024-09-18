@@ -1,12 +1,9 @@
 var searchData=
 [
-  ['getbusres_0',['getBusRes',['../class_i_n_a219.html#a151678a8f108e34bcec58eaccb8e1400',1,'INA219']]],
-  ['getgain_1',['getGain',['../class_i_n_a219.html#a0630bb99f95dd0e3402a0dc523e52dd9',1,'INA219']]],
-  ['getmaxcurrent_2',['getMaxCurrent',['../class_i_n_a219.html#abc9d4e88994dcc704a1ba44e2af15f20',1,'INA219']]],
-  ['getmaxpossiblecurrent_3',['getMaxPossibleCurrent',['../class_i_n_a219.html#a6fa8bad10017f011173ddc1dbd489d21',1,'INA219']]],
-  ['getmaxpower_4',['getMaxPower',['../class_i_n_a219.html#a80aa1fcff1cd5f220dc7d5dd2cf7fe3d',1,'INA219']]],
-  ['getmaxshuntvoltage_5',['getMaxShuntVoltage',['../class_i_n_a219.html#ab49b8283f53b685410a2a0826c835499',1,'INA219']]],
-  ['getmode_6',['getMode',['../class_i_n_a219.html#ad17b75eb41128241bd407dce406d6dfb',1,'INA219']]],
-  ['getrange_7',['getRange',['../class_i_n_a219.html#ac311c03a183861b319613d47cf3d5524',1,'INA219']]],
-  ['getshuntres_8',['getShuntRes',['../class_i_n_a219.html#ab1904b3572b2959bc3b9000863cf2d6b',1,'INA219']]]
+  ['calibrate_0',['calibrate',['../class_i_n_a219.html#a4fb08e8d52d7b706ca24cac288cbf33a',1,'INA219']]],
+  ['compatibility_1',['Board compatibility',['../index.html#autotoc_md4',1,'']]],
+  ['configure_2',['configure',['../class_i_n_a219.html#a3aecde105940a9e0d90daed8794cf77b',1,'INA219']]],
+  ['contents_3',['Repository Contents',['../index.html#autotoc_md1',1,'']]],
+  ['current_20sensor_20ina219_20breakout_20arduino_20library_4',['Voltage &amp; current sensor INA219 breakout Arduino library',['../index.html',1,'']]],
+  ['currentlsb_5',['currentLSB',['../class_i_n_a219.html#a0c9528bf2a41216d7d2e95b5c250ec33',1,'INA219']]]
 ];
