@@ -6,7 +6,7 @@
 
 | ![Voltage & current sensor INA219 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------------------------------------------------------------: |
-|                      [Voltage & current sensor INA219 breakout](https://www.solde.red/333066)                      |
+|                      [Voltage & current sensor INA219 breakout](https://solde.red/333066)                      |
 
 The INA219 is a digital device that allows the measurement of current, voltage, and therefore power. Simply, connect wire serial through this device and it will give all the information provided via I2C communication. It is very simple and reliable to use. It has a jumper for making changes to the I2C address so you can connect more than one INA219 to single microcontroller.
 
@@ -16,7 +16,7 @@ The maximum current of the measurement is determined by the shunt resistor found
 - Maximum measuring voltage: 26V
 - Maximum measuring current: 3.2A
 - ADC: 12-bit
-- Dimensions: 38 x 22mm (https://www.soldered.com/en/easyC)
+- Dimensions: 38 x 22mm (https://www.soldered.com/easyC)
 
 ### Repository Contents
 
