@@ -4,7 +4,7 @@
 [![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-INA219-Current-Sensor-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-INA219-Current-Sensor-Arduino-Library/actions/workflows/arduino_lint.yml)
 
 
-| ![Voltage & current sensor INA219 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![Voltage & current sensor INA219 breakout](https://soldered.com/cdn/shop/files/333066_featured-photo_06ad0a_6a681e96-e90c-4a2c-8265-926d40eceb2f.jpg) |
 | :----------------------------------------------------------------------------------------------------------------: |
 |                      [Voltage & current sensor INA219 breakout](https://solde.red/333066)                      |
 
